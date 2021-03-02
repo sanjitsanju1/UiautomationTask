@@ -1,0 +1,735 @@
+2021-03-02 20:03:13 INFO  TestBase:128 - session not created: This version of ChromeDriver only supports Chrome version 83
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-BNLU8FNL', ip: '192.168.43.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x006A9563+2725219]
+	Ordinal0 [0x005A8551+1672529]
+	Ordinal0 [0x00490359+525145]
+	Ordinal0 [0x00420B77+68471]
+	Ordinal0 [0x0041D32C+54060]
+	Ordinal0 [0x0043CC37+183351]
+	Ordinal0 [0x0043CA3D+182845]
+	Ordinal0 [0x0043A94B+174411]
+	Ordinal0 [0x00422528+75048]
+	Ordinal0 [0x004235A0+79264]
+	Ordinal0 [0x00423539+79161]
+	Ordinal0 [0x005BD607+1758727]
+	GetHandleVerifier [0x007C6546+1050150]
+	GetHandleVerifier [0x007C6291+1049457]
+	GetHandleVerifier [0x007D10D7+1094071]
+	GetHandleVerifier [0x007C6B46+1051686]
+	Ordinal0 [0x005B5B06+1727238]
+	Ordinal0 [0x005BEB7B+1764219]
+	Ordinal0 [0x005BECE3+1764579]
+	Ordinal0 [0x005D4C05+1854469]
+	BaseThreadInitThunk [0x77266359+25]
+	RtlGetAppContainerNamedObjectPath [0x773C8944+228]
+	RtlGetAppContainerNamedObjectPath [0x773C8914+180]
+
+2021-03-02 20:03:973 INFO  TestBase:128 - session not created: This version of ChromeDriver only supports Chrome version 83
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-BNLU8FNL', ip: '192.168.43.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x006A9563+2725219]
+	Ordinal0 [0x005A8551+1672529]
+	Ordinal0 [0x00490359+525145]
+	Ordinal0 [0x00420B77+68471]
+	Ordinal0 [0x0041D32C+54060]
+	Ordinal0 [0x0043CC37+183351]
+	Ordinal0 [0x0043CA3D+182845]
+	Ordinal0 [0x0043A94B+174411]
+	Ordinal0 [0x00422528+75048]
+	Ordinal0 [0x004235A0+79264]
+	Ordinal0 [0x00423539+79161]
+	Ordinal0 [0x005BD607+1758727]
+	GetHandleVerifier [0x007C6546+1050150]
+	GetHandleVerifier [0x007C6291+1049457]
+	GetHandleVerifier [0x007D10D7+1094071]
+	GetHandleVerifier [0x007C6B46+1051686]
+	Ordinal0 [0x005B5B06+1727238]
+	Ordinal0 [0x005BEB7B+1764219]
+	Ordinal0 [0x005BECE3+1764579]
+	Ordinal0 [0x005D4C05+1854469]
+	BaseThreadInitThunk [0x77266359+25]
+	RtlGetAppContainerNamedObjectPath [0x773C8944+228]
+	RtlGetAppContainerNamedObjectPath [0x773C8914+180]
+
+2021-03-02 20:03:471 INFO  TestBase:128 - session not created: This version of ChromeDriver only supports Chrome version 83
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-BNLU8FNL', ip: '192.168.43.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x006A9563+2725219]
+	Ordinal0 [0x005A8551+1672529]
+	Ordinal0 [0x00490359+525145]
+	Ordinal0 [0x00420B77+68471]
+	Ordinal0 [0x0041D32C+54060]
+	Ordinal0 [0x0043CC37+183351]
+	Ordinal0 [0x0043CA3D+182845]
+	Ordinal0 [0x0043A94B+174411]
+	Ordinal0 [0x00422528+75048]
+	Ordinal0 [0x004235A0+79264]
+	Ordinal0 [0x00423539+79161]
+	Ordinal0 [0x005BD607+1758727]
+	GetHandleVerifier [0x007C6546+1050150]
+	GetHandleVerifier [0x007C6291+1049457]
+	GetHandleVerifier [0x007D10D7+1094071]
+	GetHandleVerifier [0x007C6B46+1051686]
+	Ordinal0 [0x005B5B06+1727238]
+	Ordinal0 [0x005BEB7B+1764219]
+	Ordinal0 [0x005BECE3+1764579]
+	Ordinal0 [0x005D4C05+1854469]
+	BaseThreadInitThunk [0x77266359+25]
+	RtlGetAppContainerNamedObjectPath [0x773C8944+228]
+	RtlGetAppContainerNamedObjectPath [0x773C8914+180]
+
+2021-03-02 20:03:209 INFO  TestBase:128 - session not created: This version of ChromeDriver only supports Chrome version 86
+Current browser version is 88.0.4324.190 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-BNLU8FNL', ip: '192.168.43.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0095C013+3194899]
+	Ordinal0 [0x00846021+2056225]
+	Ordinal0 [0x006DF608+587272]
+	Ordinal0 [0x00661BF3+72691]
+	Ordinal0 [0x0065E229+57897]
+	Ordinal0 [0x0065C64A+50762]
+	Ordinal0 [0x00681EE9+204521]
+	Ordinal0 [0x00681D0D+204045]
+	Ordinal0 [0x0067FC1B+195611]
+	Ordinal0 [0x00663B7F+80767]
+	Ordinal0 [0x00664B4E+84814]
+	Ordinal0 [0x00664AD9+84697]
+	Ordinal0 [0x0085CE64+2149988]
+	GetHandleVerifier [0x00ACBE95+1400773]
+	GetHandleVerifier [0x00ACBB61+1399953]
+	GetHandleVerifier [0x00AD31FA+1430314]
+	GetHandleVerifier [0x00ACC69F+1402831]
+	Ordinal0 [0x00853D61+2112865]
+	Ordinal0 [0x0085E5CB+2155979]
+	Ordinal0 [0x0085E6F5+2156277]
+	Ordinal0 [0x0086F26E+2224750]
+	BaseThreadInitThunk [0x751E6359+25]
+	RtlGetAppContainerNamedObjectPath [0x775B8944+228]
+	RtlGetAppContainerNamedObjectPath [0x775B8914+180]
+
+2021-03-02 20:03:879 INFO  TestBase:128 - session not created: This version of ChromeDriver only supports Chrome version 86
+Current browser version is 88.0.4324.190 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-BNLU8FNL', ip: '192.168.43.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0095C013+3194899]
+	Ordinal0 [0x00846021+2056225]
+	Ordinal0 [0x006DF608+587272]
+	Ordinal0 [0x00661BF3+72691]
+	Ordinal0 [0x0065E229+57897]
+	Ordinal0 [0x0065C64A+50762]
+	Ordinal0 [0x00681EE9+204521]
+	Ordinal0 [0x00681D0D+204045]
+	Ordinal0 [0x0067FC1B+195611]
+	Ordinal0 [0x00663B7F+80767]
+	Ordinal0 [0x00664B4E+84814]
+	Ordinal0 [0x00664AD9+84697]
+	Ordinal0 [0x0085CE64+2149988]
+	GetHandleVerifier [0x00ACBE95+1400773]
+	GetHandleVerifier [0x00ACBB61+1399953]
+	GetHandleVerifier [0x00AD31FA+1430314]
+	GetHandleVerifier [0x00ACC69F+1402831]
+	Ordinal0 [0x00853D61+2112865]
+	Ordinal0 [0x0085E5CB+2155979]
+	Ordinal0 [0x0085E6F5+2156277]
+	Ordinal0 [0x0086F26E+2224750]
+	BaseThreadInitThunk [0x751E6359+25]
+	RtlGetAppContainerNamedObjectPath [0x775B8944+228]
+	RtlGetAppContainerNamedObjectPath [0x775B8914+180]
+
+2021-03-02 20:03:927 INFO  TestBase:135 - Initialize Web driver: 570794077
+2021-03-02 20:03:935 INFO  WaitHelper:31 - WaitHelper object created..
+2021-03-02 20:03:935 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2021-03-02 20:03:947 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2021-03-02 20:03:955 INFO  WaitHelper:146 - page is loaded
+2021-03-02 20:03:201 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2021-03-02 20:03:871 INFO  WaitHelper:31 - WaitHelper object created..
+2021-03-02 20:03:667 INFO  WaitHelper:156 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a' for :200 seconds
+2021-03-02 20:03:160 INFO  TestBase:135 - Initialize Web driver: 570794077
+2021-03-02 20:03:169 INFO  WaitHelper:31 - WaitHelper object created..
+2021-03-02 20:03:169 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2021-03-02 20:03:185 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2021-03-02 20:03:193 INFO  WaitHelper:146 - page is loaded
+2021-03-02 20:03:439 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2021-03-02 20:03:124 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2021-03-02 22:03:579 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 22:03:591 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:591 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 22:03:607 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 22:03:619 INFO  WaitHelper:143 - page is loaded
+2021-03-02 22:03:879 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 22:03:716 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:722 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 22:03:728 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:897 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:957 INFO  LoginPage:69 - entering email address....1529686406836@gmail.com
+2021-03-02 22:03:358 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 22:03:372 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:373 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 22:03:388 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 22:03:396 INFO  WaitHelper:143 - page is loaded
+2021-03-02 22:03:636 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 22:03:482 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:482 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 22:03:488 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:398 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:419 INFO  LoginPage:69 - entering email address....sanjitsanju1996@gmail.com
+2021-03-02 22:03:723 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-02 22:03:872 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 22:03:882 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:882 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 22:03:894 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 22:03:902 INFO  WaitHelper:143 - page is loaded
+2021-03-02 22:03:145 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 22:03:615 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:623 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 22:03:627 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:415 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:435 INFO  LoginPage:69 - entering email address....sanjitsanju1996@gmail.com
+2021-03-02 22:03:806 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-02 22:03:706 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 22:03:711 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:712 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 22:03:723 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 22:03:727 INFO  WaitHelper:143 - page is loaded
+2021-03-02 22:03:897 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 22:03:513 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:513 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 22:03:516 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:87 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:220 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 22:03:230 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:230 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 22:03:239 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 22:03:244 INFO  WaitHelper:143 - page is loaded
+2021-03-02 22:03:407 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 22:03:277 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:278 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 22:03:280 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:816 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:355 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 22:03:360 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:360 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 22:03:370 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 22:03:374 INFO  WaitHelper:143 - page is loaded
+2021-03-02 22:03:544 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 22:03:436 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:437 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 22:03:438 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:990 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:71 INFO  LoginPage:69 - entering email address....sanjitsanju1996@gmail.com
+2021-03-02 22:03:232 INFO  LoginPage:75 - entering password....Sanju@12
+2021-03-02 22:03:542 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 22:03:547 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:547 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 22:03:567 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 22:03:570 INFO  WaitHelper:143 - page is loaded
+2021-03-02 22:03:751 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 22:03:958 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:959 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 22:03:961 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:522 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:534 INFO  LoginPage:69 - entering email address....sanjitsanju1996@gmail.com
+2021-03-02 22:03:720 INFO  LoginPage:75 - entering password....Sanju@12
+2021-03-02 22:03:10 INFO  VerificationHelper:23 - element is Displayed..Dashboard
+2021-03-02 22:03:45 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-02 22:03:376 ERROR VerificationHelper:28 - element is not Displayed..
+2021-03-02 22:03:37 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-02 22:03:141 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 22:03:145 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:146 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 22:03:152 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 22:03:156 INFO  WaitHelper:143 - page is loaded
+2021-03-02 22:03:319 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 22:03:771 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 22:03:771 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 22:03:773 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:296 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 22:03:306 INFO  LoginPage:52 - entering email address....sanjitsanju1996@gmail.com
+2021-03-02 22:03:488 INFO  LoginPage:58 - entering password....Sanju@12
+2021-03-02 22:03:735 INFO  VerificationHelper:23 - element is Displayed..Dashboard
+2021-03-02 22:03:769 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-02 23:03:996 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 23:03:00 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:01 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 23:03:11 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 23:03:15 INFO  WaitHelper:143 - page is loaded
+2021-03-02 23:03:188 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 23:03:776 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:776 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 23:03:779 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:317 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:328 INFO  LoginPage:52 - entering email address....sanjitsanju1996@gmail.com
+2021-03-02 23:03:488 INFO  LoginPage:58 - entering password....Sanju@12
+2021-03-02 23:03:591 INFO  VerificationHelper:23 - element is Displayed..Dashboard
+2021-03-02 23:03:624 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-02 23:03:546 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 23:03:551 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:551 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 23:03:560 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 23:03:564 INFO  WaitHelper:143 - page is loaded
+2021-03-02 23:03:735 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 23:03:387 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:388 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 23:03:391 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:928 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:938 INFO  Signuppage:52 - entering email address....null
+2021-03-02 23:03:638 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-02 23:03:651 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 23:03:660 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:660 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 23:03:676 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 23:03:686 INFO  WaitHelper:143 - page is loaded
+2021-03-02 23:03:930 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 23:03:143 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:147 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 23:03:153 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:910 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:930 INFO  Signuppage:52 - entering email address....null
+2021-03-02 23:03:947 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-02 23:03:889 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 23:03:904 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:904 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 23:03:919 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 23:03:927 INFO  WaitHelper:143 - page is loaded
+2021-03-02 23:03:159 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 23:03:926 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:926 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 23:03:930 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:663 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:679 INFO  Signuppage:52 - entering email address....null
+2021-03-02 23:03:675 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-02 23:03:205 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 23:03:221 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:221 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 23:03:240 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 23:03:252 INFO  WaitHelper:143 - page is loaded
+2021-03-02 23:03:531 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 23:03:58 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:58 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 23:03:62 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:885 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:913 INFO  Signuppage:52 - entering email address....null
+2021-03-02 23:03:971 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-02 23:03:377 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 23:03:390 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:390 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 23:03:418 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 23:03:426 INFO  WaitHelper:143 - page is loaded
+2021-03-02 23:03:672 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 23:03:937 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:942 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 23:03:944 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:683 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:721 INFO  Signuppage:52 - entering email address....sanjitsanju1996@gmail.com
+2021-03-02 23:03:79 INFO  Signuppage:58 - entering password....Sanju@12
+2021-03-02 23:03:319 INFO  Signuppage:63 - entering password....Sanju@12
+2021-03-02 23:03:559 INFO  Signuppage:68 - clickining on checkbox
+2021-03-02 23:03:700 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-02 23:03:943 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 23:03:952 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:952 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 23:03:964 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 23:03:972 INFO  WaitHelper:143 - page is loaded
+2021-03-02 23:03:207 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 23:03:601 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-02 23:03:333 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-02 23:03:342 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:342 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-02 23:03:358 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-02 23:03:362 INFO  WaitHelper:143 - page is loaded
+2021-03-02 23:03:593 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-02 23:03:230 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-02 23:03:230 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-02 23:03:234 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:966 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-02 23:03:999 INFO  Signuppage:52 - entering email address....sanjitsanju1996@gmail.com
+2021-03-02 23:03:391 INFO  Signuppage:58 - entering password....Sanju@12
+2021-03-02 23:03:635 INFO  Signuppage:63 - entering password....Sanju@12
+2021-03-02 23:03:816 INFO  Signuppage:68 - clickining on checkbox
+2021-03-02 23:03:945 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 00:03:593 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 00:03:601 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:601 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 00:03:613 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 00:03:622 INFO  WaitHelper:143 - page is loaded
+2021-03-03 00:03:864 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 00:03:380 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:380 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 00:03:384 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:321 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:409 INFO  Signuppage:52 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 00:03:28 INFO  Signuppage:58 - entering password....Sanju@12
+2021-03-03 00:03:259 INFO  Signuppage:63 - entering password....Sanju@12
+2021-03-03 00:03:546 INFO  Signuppage:68 - clickining on checkbox
+2021-03-03 00:03:957 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 00:03:340 INFO  TestBase:127 - Initialize Web driver: 2133344792
+2021-03-03 00:03:354 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:354 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 00:03:372 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 00:03:380 INFO  WaitHelper:143 - page is loaded
+2021-03-03 00:03:840 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:840 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 00:03:844 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:702 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:737 INFO  TestBase:182 - excel location C:\Users\sanjit sahoo\Eclipse wp2\latestPageObjectModelFramework-master/src/main/resources/configfile/testData.xlsx
+2021-03-03 00:03:803 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 00:03:831 INFO  LoginPage:52 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 00:03:156 INFO  LoginPage:58 - entering password....sanju@12
+2021-03-03 00:03:990 ERROR VerificationHelper:28 - element is not Displayed..
+2021-03-03 00:03:185 INFO  TestBase:127 - Initialize Web driver: 2133344792
+2021-03-03 00:03:192 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:192 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 00:03:209 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 00:03:218 INFO  WaitHelper:143 - page is loaded
+2021-03-03 00:03:972 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:972 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 00:03:979 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:777 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:801 INFO  TestBase:182 - excel location C:\Users\sanjit sahoo\Eclipse wp2\latestPageObjectModelFramework-master/src/main/resources/configfile/testData.xlsx
+2021-03-03 00:03:326 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 00:03:342 INFO  LoginPage:53 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 00:03:681 INFO  LoginPage:59 - entering password....sanju@12
+2021-03-03 00:03:87 ERROR VerificationHelper:28 - element is not Displayed..
+2021-03-03 00:03:329 INFO  TestBase:86 - **************loginTestFinished***************
+2021-03-03 00:03:986 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 00:03:995 INFO  LoginPage:53 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 00:03:288 INFO  LoginPage:59 - entering password....sanju@12
+2021-03-03 00:03:549 ERROR VerificationHelper:28 - element is not Displayed..
+2021-03-03 00:03:617 INFO  TestBase:86 - **************loginTestFinished***************
+2021-03-03 00:03:753 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 00:03:775 INFO  TestBase:86 - **************loginTestFinished***************
+2021-03-03 00:03:116 INFO  TestBase:127 - Initialize Web driver: 2133344792
+2021-03-03 00:03:125 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:125 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 00:03:137 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 00:03:145 INFO  WaitHelper:143 - page is loaded
+2021-03-03 00:03:873 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:873 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 00:03:878 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:598 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:619 INFO  TestBase:182 - excel location C:\Users\sanjit sahoo\Eclipse wp2\latestPageObjectModelFramework-master/src/main/resources/configfile/testData.xlsx
+2021-03-03 00:03:161 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 00:03:173 INFO  LoginPage:53 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 00:03:485 INFO  LoginPage:59 - entering password....Sanju@12
+2021-03-03 00:03:315 INFO  VerificationHelper:23 - element is Displayed..Dashboard
+2021-03-03 00:03:798 INFO  TestBase:86 - **************loginTestFinished***************
+2021-03-03 00:03:906 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 00:03:918 INFO  LoginPage:53 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 00:03:344 INFO  LoginPage:59 - entering password....Sanju@12
+2021-03-03 00:03:695 INFO  VerificationHelper:23 - element is Displayed..Dashboard
+2021-03-03 00:03:153 INFO  TestBase:86 - **************loginTestFinished***************
+2021-03-03 00:03:362 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 00:03:386 INFO  TestBase:86 - **************loginTestFinished***************
+2021-03-03 00:03:665 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 00:03:673 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:673 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 00:03:689 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 00:03:693 INFO  WaitHelper:143 - page is loaded
+2021-03-03 00:03:938 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 00:03:289 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:289 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 00:03:295 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:26 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:47 INFO  LoginPage:53 - entering email address....null
+2021-03-03 00:03:955 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 00:03:796 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 00:03:805 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:805 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 00:03:825 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 00:03:833 INFO  WaitHelper:143 - page is loaded
+2021-03-03 00:03:114 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 00:03:547 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:547 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 00:03:551 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:250 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:268 INFO  LoginPage:53 - entering email address....null
+2021-03-03 00:03:126 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 00:03:237 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 00:03:246 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:246 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 00:03:258 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 00:03:267 INFO  WaitHelper:143 - page is loaded
+2021-03-03 00:03:501 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 00:03:205 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:209 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 00:03:213 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:00 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:25 INFO  LoginPage:53 - entering email address....null
+2021-03-03 00:03:54 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 00:03:133 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 00:03:146 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:146 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 00:03:166 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 00:03:170 INFO  WaitHelper:143 - page is loaded
+2021-03-03 00:03:422 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 00:03:787 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:791 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 00:03:791 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:533 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:554 INFO  LoginPage:53 - entering email address....null
+2021-03-03 00:03:491 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 00:03:357 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 00:03:368 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:368 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 00:03:382 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 00:03:390 INFO  WaitHelper:143 - page is loaded
+2021-03-03 00:03:619 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 00:03:873 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 00:03:877 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 00:03:902 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:666 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 00:03:686 INFO  LoginPage:53 - entering email address....null
+2021-03-03 00:03:579 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:786 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:799 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:799 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:819 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:827 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:59 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:289 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:289 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:294 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:51 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:84 INFO  Signuppage:53 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 01:03:414 INFO  Signuppage:59 - entering password....Sanju@12
+2021-03-03 01:03:594 INFO  Signuppage:64 - entering password....Sanju@12
+2021-03-03 01:03:756 INFO  Signuppage:69 - clickining on checkbox
+2021-03-03 01:03:40 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:134 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:143 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:143 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:159 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:164 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:389 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:09 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:13 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:21 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:805 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:825 INFO  LoginPage:53 - entering email address....null
+2021-03-03 01:03:817 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:301 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:308 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:308 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:325 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:329 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:558 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:349 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:353 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:357 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:47 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:63 INFO  LoginPage:53 - entering email address....null
+2021-03-03 01:03:963 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:560 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:574 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:574 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:591 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:595 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:850 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:407 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:70 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:79 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:79 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:95 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:103 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:377 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:282 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:282 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:289 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:45 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:78 INFO  LoginPage:53 - entering email address....null
+2021-03-03 01:03:979 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:227 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:234 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:234 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:246 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:254 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:465 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:998 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:998 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:04 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:818 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:840 INFO  LoginPage:53 - entering email address....null
+2021-03-03 01:03:952 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:420 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:430 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:430 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:450 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:454 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:706 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:612 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:284 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:299 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:299 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:312 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:320 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:582 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:311 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:311 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:319 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:154 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:178 INFO  LoginPage:53 - entering email address....null
+2021-03-03 01:03:265 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:294 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:306 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:306 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:322 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:330 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:581 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:539 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:855 INFO  TestBase:127 - Initialize Web driver: 2133344792
+2021-03-03 01:03:871 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:873 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:897 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:909 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:548 INFO  TestBase:182 - excel location C:\Users\sanjit sahoo\Eclipse wp2\latestPageObjectModelFramework-master/src/main/resources/configfile/testData.xlsx
+2021-03-03 01:03:909 INFO  TestBase:127 - Initialize Web driver: 2133344792
+2021-03-03 01:03:920 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:920 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:932 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:940 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:791 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:791 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:799 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:541 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:570 INFO  TestBase:182 - excel location C:\Users\sanjit sahoo\Eclipse wp2\latestPageObjectModelFramework-master/src/main/resources/configfile/testData.xlsx
+2021-03-03 01:03:166 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 01:03:182 INFO  LoginPage:53 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 01:03:508 INFO  LoginPage:59 - entering password....Sanju@12
+2021-03-03 01:03:229 INFO  VerificationHelper:23 - element is Displayed..Dashboard
+2021-03-03 01:03:975 INFO  TestBase:86 - **************loginTestFinished***************
+2021-03-03 01:03:181 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 01:03:189 INFO  LoginPage:53 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 01:03:31 INFO  LoginPage:59 - entering password....Sanju@12
+2021-03-03 01:03:839 INFO  VerificationHelper:23 - element is Displayed..Dashboard
+2021-03-03 01:03:515 INFO  TestBase:86 - **************loginTestFinished***************
+2021-03-03 01:03:675 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 01:03:699 INFO  TestBase:86 - **************loginTestFinished***************
+2021-03-03 01:03:308 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:319 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:323 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:331 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:341 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:592 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:57 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:65 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:70 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:70 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:98 INFO  LoginPage:53 - entering email address....null
+2021-03-03 01:03:80 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:931 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:945 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:945 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:965 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:969 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:230 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:465 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:465 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:469 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:265 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:285 INFO  LoginPage:53 - entering email address....sanjit.sahoo@gmail.com
+2021-03-03 01:03:581 INFO  LoginPage:59 - entering password....Sanju@12
+2021-03-03 01:03:524 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:532 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:536 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:566 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:574 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:914 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:990 ERROR VerificationHelper:28 - element is not Displayed..
+2021-03-03 01:03:339 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:435 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:435 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:447 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:113 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:129 INFO  LoginPage:53 - entering email address....sanjit.sahoo@gmail.com
+2021-03-03 01:03:576 INFO  LoginPage:59 - entering password....Sanju@12
+2021-03-03 01:03:963 ERROR VerificationHelper:28 - element is not Displayed..
+2021-03-03 01:03:141 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:153 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:161 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:161 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:173 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:182 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:426 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:793 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:793 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:803 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:557 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:575 INFO  LoginPage:53 - entering email address....null
+2021-03-03 01:03:540 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:641 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:661 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:664 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:685 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:689 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:958 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:65 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:69 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:73 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:952 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:985 INFO  LoginPage:53 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 01:03:383 INFO  LoginPage:59 - entering password....Sanju@12
+2021-03-03 01:03:276 INFO  VerificationHelper:23 - element is Displayed..Dashboard
+2021-03-03 01:03:336 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:164 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:179 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:179 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:199 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:203 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:434 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:226 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:226 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:234 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:992 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:09 INFO  Signuppage:53 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 01:03:309 INFO  Signuppage:59 - entering password....Sanju@12
+2021-03-03 01:03:542 INFO  Signuppage:64 - entering password....Sanju@12
+2021-03-03 01:03:692 INFO  Signuppage:69 - clickining on checkbox
+2021-03-03 01:03:975 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:326 INFO  TestBase:127 - Initialize Web driver: 570794077
+2021-03-03 01:03:337 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:337 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:351 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:359 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:603 INFO  TestBase:68 - **************testLoginToApplicationStarted***************
+2021-03-03 01:03:201 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:201 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:206 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:877 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:893 INFO  Signuppage:53 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 01:03:215 INFO  Signuppage:59 - entering password....Sanju@12
+2021-03-03 01:03:442 INFO  Signuppage:64 - entering password....Sanju@12
+2021-03-03 01:03:609 INFO  Signuppage:69 - clickining on checkbox
+2021-03-03 01:03:921 INFO  TestBase:86 - **************testLoginToApplicationFinished***************
+2021-03-03 01:03:855 INFO  TestBase:127 - Initialize Web driver: 2133344792
+2021-03-03 01:03:867 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:867 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2021-03-03 01:03:880 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2021-03-03 01:03:888 INFO  WaitHelper:143 - page is loaded
+2021-03-03 01:03:334 INFO  WaitHelper:28 - WaitHelper object created..
+2021-03-03 01:03:334 INFO  TestBase:160 - capturing ui navigation screen...
+2021-03-03 01:03:342 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:105 INFO  JavaScriptHelper:19 - JavaScriptHelper has been initialised
+2021-03-03 01:03:130 INFO  TestBase:182 - excel location C:\Users\sanjit sahoo\Eclipse wp2\latestPageObjectModelFramework-master/src/main/resources/configfile/testData.xlsx
+2021-03-03 01:03:775 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 01:03:787 INFO  LoginPage:53 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 01:03:342 INFO  LoginPage:59 - entering password....Sanju@12
+2021-03-03 01:03:659 INFO  VerificationHelper:23 - element is Displayed..Dashboard
+2021-03-03 01:03:758 INFO  TestBase:86 - **************loginTestFinished***************
+2021-03-03 01:03:725 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 01:03:743 INFO  LoginPage:53 - entering email address....sanjitsanju1996@gmail.com
+2021-03-03 01:03:789 INFO  LoginPage:59 - entering password....Sanju@12
+2021-03-03 01:03:442 INFO  VerificationHelper:23 - element is Displayed..Dashboard
+2021-03-03 01:03:980 INFO  TestBase:86 - **************loginTestFinished***************
+2021-03-03 01:03:158 INFO  TestBase:68 - **************loginTestStarted***************
+2021-03-03 01:03:188 INFO  TestBase:86 - **************loginTestFinished***************
