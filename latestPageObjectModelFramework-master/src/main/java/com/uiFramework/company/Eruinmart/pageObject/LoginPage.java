@@ -30,7 +30,8 @@ public class LoginPage{
 	
 	@FindBy(xpath="//button[contains(text(),'Sign In')]")
 	WebElement Signin;
-	@FindBy(xpath="(//*[@class='ng-star-inserted'])[2]")WebElement clickonname ;
+	@FindBy(xpath="(//span[contains(text(),'sssm sahoo')]")WebElement clickonname ;
+	//@FindBy(xpath="((//*[@class='ng-star-inserted'])[2]")WebElement clickonname ;
 
 @FindBy(xpath="//div[contains(text(),'Dashboard')]")
 	WebElement successMsgObject;

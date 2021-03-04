@@ -62,7 +62,12 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.6</version>
 		</dependency>
-
+ <!-- https://mvnrepository.com/artifact/javax.mail/mail -->
+    <dependency>
+        <groupId>javax.mail</groupId>
+        <artifactId>mail</artifactId>
+        <version>1.4</version>
+    </dependency>
 		<!-- https://mvnrepository.com/artifact/com.beust/jcommander -->
 		<dependency>
 			<groupId>com.beust</groupId>

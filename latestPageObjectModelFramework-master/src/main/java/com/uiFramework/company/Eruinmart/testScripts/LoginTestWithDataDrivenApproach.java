@@ -1,4 +1,4 @@
-package com.uiFramework.company.Eruinmart.testScripts.loginPage;
+package com.uiFramework.company.Eruinmart.testScripts;
 
 import org.apache.log4j.Logger;
 import org.testng.SkipException;
@@ -29,7 +29,7 @@ public class LoginTestWithDataDrivenApproach extends TestBase{
 		 login = new LoginPage(driver);
 	}
 	@Test(dataProvider="testData")
-	public void loginTest(String userName, String password, String runMode){
+	public void loginTest(String userName, String password, String runMode) throws InterruptedException{
 		
 		if(runMode.equalsIgnoreCase("n")){
 			throw new SkipException("Run mode for this set of data is marked N");
@@ -37,6 +37,7 @@ public class LoginTestWithDataDrivenApproach extends TestBase{
 		login.loginToApplication(userName, password);
 		boolean status = login.verifySuccessLoginMsg();
 		AssertionHelper.updateTestStatus(status);
+		Thread.sleep(1000);
 		login.logout();
 	}
 }
