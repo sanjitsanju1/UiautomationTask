@@ -35,6 +35,7 @@ public class Signuppage_Test extends TestBase{
 	signup.enterconfirmPassword(ObjectReader.reader.getconfirmpassword());
 	signup.clickoncheckbox();		
 	signup.clickOnRegisterButton();	
+	getNavigationScreen(driver);
 /*
  * Then it is asking for otp ,go with manually and  put the otp
   and verify bcozw selenium can't handle otp

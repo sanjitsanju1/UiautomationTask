@@ -10,8 +10,11 @@ public interface ConfigReader {
 	public BrowserType getBrowserType();
 	public String getUrl();
 	public String getUrl2();
-	public String getUserName();
-	public String getPassword();
+	public String getUserName1();
+	public String getPassword1();
+	public String firstname();
+	public String lastname();
+	public String phonenumber();
     public String getnewEmail();
     public String getnewpassword();
     public String getconfirmpassword();

@@ -38,6 +38,7 @@ public class LoginTestWithDataDrivenApproach extends TestBase{
 		boolean status = login.verifySuccessLoginMsg();
 		AssertionHelper.updateTestStatus(status);
 		Thread.sleep(1000);
+		getNavigationScreen(driver);
 		login.logout();
 	}
 }

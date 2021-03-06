@@ -36,7 +36,7 @@ public class LoginTest extends TestBase{
 			{
 			
 		
-				driver.findElement(By.xpath("//input[@id='mat-input-0']")).sendKeys("9937930102");
+				driver.findElement(By.xpath("//input[@id='mat-input-0']")).sendKeys(ObjectReader.reader.phonenumber());
 				getNavigationScreen(driver);
 				driver.findElement(By.xpath("//span[contains(text(),'Submit')]")).click();	
 			}
@@ -47,7 +47,7 @@ public class LoginTest extends TestBase{
 			if(Enterfirstname=true)
 			{
 		
-			driver.findElement(By.xpath("//input[@id='mat-input-1']")).sendKeys("samar");
+			driver.findElement(By.xpath("//input[@id='mat-input-1']")).sendKeys(ObjectReader.reader.firstname());
 			getNavigationScreen(driver);
 			driver.findElement(By.xpath("/html[1]/body[1]/app-root[1]/user-home[1]/new-user[1]/div[1]/div[2]/form[1]/div[1]/div[2]/div[1]/div[1]/div[3]/button[1]/span[1]")).click();	
 			
@@ -59,7 +59,7 @@ public class LoginTest extends TestBase{
 			if(Enterlastname=true)
 			{
 			
-			driver.findElement(By.xpath("//input[@id='mat-input-2']")).sendKeys("jena");
+			driver.findElement(By.xpath("//input[@id='mat-input-2']")).sendKeys(ObjectReader.reader.lastname());
 			getNavigationScreen(driver);
 			driver.findElement(By.xpath("/html[1]/body[1]/app-root[1]/user-home[1]/new-user[1]/div[1]/div[2]/form[1]/div[1]/div[2]/div[1]/div[1]/div[3]/button[1]/span[1]")).click();	
 			

@@ -3,17 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.uiFramework.company.Eruinmart.testScripts.loginPage.LoginTestWithDataDrivenApproach">
+      <class name="com.uiFramework.company.Eruinmart.testScripts.LoginTest">
         <methods>
+          <include name="testLoginToApplication"/>
           <include name="beforeSuite"/>
           <include name="beforeTest"/>
           <include name="afterMethod"/>
-          <include name="beforeClass"/>
           <include name="beforeMethod"/>
-          <include name="loginTest" invocation-numbers="0 1 2"/>
           <include name="afterTest"/>
         </methods>
-      </class> <!-- com.uiFramework.company.Eruinmart.testScripts.loginPage.LoginTestWithDataDrivenApproach -->
+      </class> <!-- com.uiFramework.company.Eruinmart.testScripts.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

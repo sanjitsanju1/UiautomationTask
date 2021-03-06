@@ -58,11 +58,11 @@ public class PropertyReader implements ConfigReader {
 		return OR.getProperty("applicationUrl2");
 	}
 
-	public String getUserName() {
-		if(System.getProperty("userName")!=null){
-			return System.getProperty("userName");
+	public String getUserName1() {
+		if(System.getProperty("userName1")!=null){
+			return System.getProperty("userName1");
 		}
-		return OR.getProperty("userName");
+		return OR.getProperty("userName1");
 	}
 
 	public String getnewEmail() {
@@ -71,11 +71,11 @@ public class PropertyReader implements ConfigReader {
 		}
 		return OR.getProperty("Email");
 	}
-	public String getPassword() {
-		if(System.getProperty("password")!=null){
-			return System.getProperty("password");
+	public String getPassword1() {
+		if(System.getProperty("password1")!=null){
+			return System.getProperty("password1");
 		}
-		return OR.getProperty("password");
+		return OR.getProperty("password1");
 	}
 	public String getnewpassword() {
 		if(System.getProperty("newpassword")!=null){
@@ -92,9 +92,24 @@ public class PropertyReader implements ConfigReader {
 	}
 
 	
-	
-	
-	
+	public String firstname() {
+		if(System.getProperty("fname")!=null){
+			return System.getProperty("fname");
+		}
+		return OR.getProperty("fname");
+	}
+	public String lastname() {
+		if(System.getProperty("lname")!=null){
+			return System.getProperty("lname");
+		}
+		return OR.getProperty("lname");
+	}
+	public String phonenumber() {
+		if(System.getProperty("phno")!=null){
+			return System.getProperty("phno");
+		}
+		return OR.getProperty("phno");
+	}
 
 
 }
